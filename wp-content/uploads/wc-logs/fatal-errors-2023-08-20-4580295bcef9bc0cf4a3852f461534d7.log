@@ -1,0 +1,106 @@
+2023-08-20T08:52:18+00:00 CRITICAL Unclosed '{' on line 87 in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 742
+
+2023-08-20T08:52:22+00:00 CRITICAL Unclosed '{' on line 87 in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 742
+
+2023-08-20T09:00:55+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:89
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 89
+
+2023-08-20T09:01:24+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:89
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 89
+
+2023-08-20T09:05:16+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:89
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 89
+
+2023-08-20T12:34:37+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:144
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 144
+
+2023-08-20T12:35:20+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:144
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 144
+
+2023-08-20T12:36:45+00:00 CRITICAL syntax error, unexpected token "=", expecting "," or ";" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 3
+
+2023-08-20T12:37:22+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:144
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 144
+
+2023-08-20T12:37:48+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:144
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 144
+
+2023-08-20T12:40:39+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_get_product_thumbnail_url() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:140
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 140
+
+2023-08-20T13:02:18+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:145
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 145
+
+2023-08-20T13:03:57+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: float + string in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:145
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 145
+
+2023-08-20T13:05:59+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string / string in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:145
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 145
+
+2023-08-20T13:06:28+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string / string in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php:145
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 145
+
+2023-08-20T13:10:33+00:00 CRITICAL syntax error, unexpected token "endwhile", expecting "elseif" or "else" or "endif" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 189
+
+2023-08-20T13:11:17+00:00 CRITICAL syntax error, unexpected token "endwhile" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 192
+

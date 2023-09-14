@@ -1,0 +1,48 @@
+2023-08-15T13:34:14+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_contnet() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php:4
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php on line 4
+
+2023-08-15T13:35:20+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_contnet() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php:4
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php on line 4
+
+2023-08-15T13:35:22+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_contnet() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php:4
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php on line 4
+
+2023-08-15T13:53:38+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_contnet() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php:4
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php on line 4
+
+2023-08-15T13:56:15+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_contnet() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php:4
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php on line 4
+
+2023-08-15T13:56:30+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_contnet() in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php:4
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#2 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#3 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\woocommerce.php on line 4
+

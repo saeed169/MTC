@@ -1,0 +1,216 @@
+2023-08-24T07:23:45+00:00 CRITICAL syntax error, unexpected single-quoted string "taxonomy", expecting ")" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 87
+
+2023-08-24T07:23:50+00:00 CRITICAL syntax error, unexpected single-quoted string "taxonomy", expecting ")" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 87
+
+2023-08-24T07:41:55+00:00 CRITICAL syntax error, unexpected end of file in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php on line 1124
+
+2023-08-24T07:41:55+00:00 CRITICAL syntax error, unexpected end of file in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php on line 1124
+
+2023-08-24T08:38:03+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php:324
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#6 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#7 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php on line 324
+
+2023-08-24T08:38:15+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php:324
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once()
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#6 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#7 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php on line 324
+
+2023-08-24T09:19:03+00:00 CRITICAL syntax error, unexpected token ")" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 514
+
+2023-08-24T09:19:23+00:00 CRITICAL syntax error, unexpected token ")" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 514
+
+2023-08-24T09:19:59+00:00 CRITICAL syntax error, unexpected token ")" in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php on line 514
+
+2023-08-24T12:32:39+00:00 CRITICAL Unclosed '{' on line 589 in D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php on line 1180
+
+2023-08-24T12:40:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent(NULL)
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(599): do_action('wp_login', NULL)
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T12:41:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T12:41:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T12:42:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T12:44:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T13:11:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T13:40:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T13:41:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T13:58:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T13:58:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
+2023-08-24T13:58:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php on line 310 and exactly 2 expected in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php:916
+Stack trace:
+#0 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(310): wc_maybe_store_user_agent('test@roqay.com')
+#1 D:\wamp64\www\MTC_WooCommenrce\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 D:\wamp64\www\MTC_WooCommenrce\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\header.php(600): do_action('wp_login', 'test@roqay.com')
+#4 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(785): require_once('D:\\wamp64\\www\\M...')
+#5 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template.php(720): load_template('D:\\wamp64\\www\\M...', true, Array)
+#6 D:\wamp64\www\MTC_WooCommenrce\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#7 D:\wamp64\www\MTC_WooCommenrce\wp-content\themes\mtc\front-page.php(2): get_header()
+#8 D:\wamp64\www\MTC_WooCommenrce\wp-includes\template-loader.php(106): include('D:\\wamp64\\www\\M...')
+#9 D:\wamp64\www\MTC_WooCommenrce\wp-blog-header.php(19): require_once('D:\\wamp64\\www\\M...')
+#10 D:\wamp64\www\MTC_WooCommenrce\index.php(17): require('D:\\wamp64\\www\\M...')
+#11 {main}
+  thrown in D:\wamp64\www\MTC_WooCommenrce\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 916
+
